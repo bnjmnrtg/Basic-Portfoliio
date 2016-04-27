@@ -1,0 +1,218 @@
+html{
+	
+	
+}
+
+body{
+	background-image: url(http://static.wixstatic.com/media/56e52f_f0d376818f3f423790c30f4f17795346.jpg);
+}
+
+header{
+	font-family: Georgia;
+	background-color: #4aaaa5;
+	font-size: 25px;
+	width: 270px;
+	padding: 20px 80px;
+	margin-left: 53px;
+	margin-top: 30px;
+}
+
+
+p{
+	font-style: Arial;
+}
+
+form{
+	text-align: left;
+	font-style: arial;
+	font-size: 20px;
+	margin-left: 20px;
+}
+input{
+	font-style: arial;
+	font-size: 15px;
+
+
+}
+
+textarea{
+	font-style: arial;
+	font-size: 15px;
+}
+
+#mainp{
+	float: right;
+}
+
+#secondp{
+	text-align: center;
+}
+
+footer{
+	background-color: #666666;
+	font-style: Arial;
+	color: white;
+	clear: both;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	position: absolute;
+	padding: 20px 0 0 20px;
+	left: 0px;
+	bottom:0px;
+	border-top:solid;
+	border-color: #4aaaa5;
+
+	* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+	height: 100%;
+	margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+	height: 155px; /* .push must be the same height as .footer */
+}
+
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/
+}
+
+
+
+nav ul{
+	font-style: Georgia;
+	list-style: none;
+	padding: 0;
+	position: absolute;
+	width: 400px;
+	right: 100px;
+	top: 0;
+	margin-top: 55px;
+}
+
+#profilePic{
+	position: relative;
+	float: left;
+	clear: both;
+	width: 300px;
+	height: 300px;
+
+}
+
+
+#About{
+	float: right;
+	width: 10%;
+	margin-right: 40px;
+}
+
+
+#Portfolio{
+	float: right;
+	width:10%;
+	margin-right: 70px;
+}
+
+
+#Contact{
+	float: right;
+	width: 10%;
+}
+
+#backgroung{
+	position: absolute;
+	height: 100%;
+	width: 100%
+	z-index: -1;
+
+}
+
+.a{
+	background-color: #ffffff;
+	float:left; 
+	width: 60%;
+	height: 60%;
+	margin-top: 50px;
+	margin-left: 50px;
+	border: solid #dddddd; 
+}
+#am{
+	font-size: 25px;
+	margin-left: 100px;
+}
+
+.connect{
+	text-align: center;
+	background-color: #ffffff;
+	float: left;
+	width: 270px;
+	height: 100px;
+	margin-top: 50px;
+	border: solid #dddddd;
+	margin-left: 30px;
+	position:absolute; 
+	right: 20px;
+}
+
+#stackflow{
+	width: 32px;
+	height: 32px;
+}
+
+
+.portfoliopage{
+	border: solid;
+	margin:50px 10px 20px 50px;
+	width: 60%;
+	height: 60%;
+	border: solid #dddddd;
+	background-color: #ffffff;
+	float: left;
+}
+
+#port{
+	text-align: center;
+}
+
+.contactpage{
+	border: solid;
+	margin:50px 10px 20px 50px;
+	width: 60%;
+	height: 60%;
+	border: solid #dddddd;
+	background-color: #ffffff;
+	float: left;
+
+}
+
+#cont{
+	text-align: center;
+}
+
+.aboutpage{
+	border: solid;
+	margin:50px 10px 20px 50px;
+	width: 60%;
+	height: 60%;
+	border: solid #dddddd;
+	background-color: #ffffff;
+	float: left;
+
+}
+
+#abt{
+	text-align: center;
+}
+
+
+
